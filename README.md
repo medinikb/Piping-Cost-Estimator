@@ -1,6 +1,6 @@
 # Piping Cost Estimator
 
-Live tool: https://medinikb.github.io/Pipe-Price-Predictor/
+Live tool: https://medinikb.github.io/Piping-Cost-Estimator/
 
 Piping Cost Estimator is a free public material-only cost estimation tool for pipes and piping components. It budget-prices pipes, fittings, flanges, valves, bolts, gaskets, and strainers from manual inputs or uploaded BOM files.
 
